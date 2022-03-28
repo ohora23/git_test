@@ -1,6 +1,6 @@
-/home/jkyoo/0_SLAM/0_SLAM_STUDY/slam_book/build/CMakeFiles/rebuild_cache.dir
-/home/jkyoo/0_SLAM/0_SLAM_STUDY/slam_book/build/CMakeFiles/useHello.dir
-/home/jkyoo/0_SLAM/0_SLAM_STUDY/slam_book/build/CMakeFiles/edit_cache.dir
-/home/jkyoo/0_SLAM/0_SLAM_STUDY/slam_book/build/CMakeFiles/hello_shared.dir
-/home/jkyoo/0_SLAM/0_SLAM_STUDY/slam_book/build/CMakeFiles/hello.dir
-/home/jkyoo/0_SLAM/0_SLAM_STUDY/slam_book/build/CMakeFiles/helloSLAM.dir
+/home/ros/jkyoo/2_Study/git_study/build/CMakeFiles/rebuild_cache.dir
+/home/ros/jkyoo/2_Study/git_study/build/CMakeFiles/edit_cache.dir
+/home/ros/jkyoo/2_Study/git_study/build/CMakeFiles/useHello.dir
+/home/ros/jkyoo/2_Study/git_study/build/CMakeFiles/hello_shared.dir
+/home/ros/jkyoo/2_Study/git_study/build/CMakeFiles/helloSLAM.dir
+/home/ros/jkyoo/2_Study/git_study/build/CMakeFiles/hello.dir
